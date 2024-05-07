@@ -37,6 +37,12 @@
 [//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=aqibsaeed237&theme=react-dark" />)
 </a>
 </p>
+## GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aqibsaeed237&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibsaeed237&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibsaeed237)
+
 
 
 <!-- <p  align="center">
