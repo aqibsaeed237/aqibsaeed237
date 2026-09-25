@@ -17,11 +17,11 @@
 
 I build **production-grade mobile applications with Flutter**, and the backends that power them.
 
-My work sits across the full stack: Flutter and Dart on the client, applying **Clean Architecture** and **BLoC** so codebases stay testable as they grow — and **NestJS / TypeScript** and **Python** on the server, covering multi-tenant data models, JWT auth, role-based access, payments and push notifications.
+My work sits across the full stack: Flutter and Dart on the client, applying **Clean Architecture** and **BLoC** so codebases stay testable as they grow — and **NestJS / TypeScript** and **Python / FastAPI** on the server, covering multi-tenant data models, JWT auth, role-based access, payments and push notifications.
 
-- 🔭 Currently building **multi-tenant SaaS products** — Flutter frontends backed by NestJS APIs
+- 🔭 Currently building **multi-tenant SaaS products** — Flutter frontends backed by NestJS and FastAPI services
 - 🌱 Going deeper on **system design, scalable backend architecture and clean code**
-- 💬 Ask me about **Flutter, Dart, BLoC, Firebase, NestJS and REST API design**
+- 💬 Ask me about **Flutter, Dart, BLoC, Firebase, NestJS, FastAPI and REST API design**
 - 📫 Reach me at **aqibsaeedmahr@gmail.com**
 
 ---
@@ -38,6 +38,19 @@ My work sits across the full stack: Flutter and Dart on the client, applying **C
 | **[COVID-19 Tracker](https://github.com/aqibsaeed237/covid_19_tracker_app)** | Live global case tracking with country breakdowns, consuming a public REST API. | `Flutter` `REST` |
 | **[SplitBills](https://github.com/aqibsaeed237/splitbills)** | Shared-expense splitter for groups and trips. | `Flutter` `Dart` |
 
+<details>
+<summary><b>More projects</b></summary>
+
+<br />
+
+**Flutter / Dart** — [chatapp](https://github.com/aqibsaeed237/chatapp) · [my_ride](https://github.com/aqibsaeed237/my_ride) · [anthenacapm](https://github.com/aqibsaeed237/anthenacapm) · [practice_autohaus_rental](https://github.com/aqibsaeed237/practice_autohaus_rental) · [simple_calculator](https://github.com/aqibsaeed237/simple_calculator) · [billsplitterApp](https://github.com/aqibsaeed237/billsplitterApp)
+
+**Web** — [travel_explore](https://github.com/aqibsaeed237/travel_explore) · [house_rent_managment](https://github.com/aqibsaeed237/house_rent_managment) · [Portfolio](https://github.com/aqibsaeed237/Portfolio)
+
+**C++ fundamentals** — [navigationRoute](https://github.com/aqibsaeed237/navigationRoute) · [Animated](https://github.com/aqibsaeed237/Animated) · [BMI](https://github.com/aqibsaeed237/BMI)
+
+</details>
+
 ---
 
 ### 🛠️ Tech stack
@@ -53,13 +66,21 @@ My work sits across the full stack: Flutter and Dart on the client, applying **C
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Data & Services**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
