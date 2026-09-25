@@ -30,6 +30,7 @@ My work sits across the full stack: Flutter and Dart on the client, applying **C
 
 | Project | Description | Stack |
 |---|---|---|
+| **[TechCortix AI BOS — Backend](https://github.com/aqibsaeed237/techcortix-ai-bos)** | Multi-tenant business-OS backend: JWT auth with sessions and refresh tokens, organizations, email verification and password reset, append-only activity logging, Redis-backed rate limiting and Celery background jobs — containerized with Docker. | `Python` `FastAPI` `PostgreSQL` |
 | **[Pharmacy POS — App](https://github.com/aqibsaeed237/saas_pharmacy)** | Multi-tenant SaaS point-of-sale app. Inventory, sales, purchases, reports, subscription billing, offline-safe UI, dark theme and localization — built on Clean Architecture. | `Flutter` `Dart` `BLoC` |
 | **[Pharmacy POS — Backend](https://github.com/aqibsaeed237/pharmacy_pos_backend)** | The API behind it: multi-tenant isolation, JWT auth with refresh tokens, RBAC, multi-store switching, Stripe & PayFast payments, FCM notifications, Swagger docs, rate limiting. | `NestJS` `TypeScript` `MySQL` |
 | **[Flutter Widgets](https://github.com/aqibsaeed237/Flutter-Widgets)** | A working reference collection of Flutter widgets and UI patterns. | `Flutter` `Dart` |
