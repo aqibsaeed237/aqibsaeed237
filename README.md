@@ -1,57 +1,89 @@
-<h1 align="center">Hey 👋, This is Aqib Saeed!</h1>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=aqibsaeed237&label=Profile%20views&color=0e75b6&style=flat" alt="aqibsaeed237" /> </p> -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<h4 align="left">A zealous developer with expertise in Flutter mobile application development and Firebase backend intricacies with adept development skills and an unwavering commitment to learning, I passionately strive for continuous progress in information technology and also as dedicated learning.</h4>
-
-<p align="left"> <a href="https://twitter.com/aqibsaeed237?t=XmCH4zdsiUMRg35JihA2VA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/aqibsaeed237?logo=twitter&style=for-the-badge" alt="aqibsaeed237" /></a> </p>
-
-<!--- 🔭 I’m currently working on **FLutter: Employee Management App**-->
-
-<!--- 🌱 I’m currently learning **Node JS, Mongo db, Figma**-->
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **aqibsaeedmahr@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/aqibsaeed237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqibsaeed237" height="30" width="40" /></a> 
-<a href="https://twitter.com/aqibsaeed237?t=XmCH4zdsiUMRg35JihA2VA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqibsaeed237" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aqibsaeed237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqibsaeed237" height="30" width="40" /></a>
-
-
-</p>
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-# 📈 Statistics 📈
-
+<h1 align="center">Hey 👋, I'm Aqib Saeed</h1>
 
 <p align="center">
-  <a href="https://github.com/aqibsaeed237">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=aqibsaeed237&show_icons=true&theme=github_dark&hide_border=true" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibsaeed237&theme=github-dark-blue&hide_border=true" />
-
-[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=aqibsaeed237&theme=react-dark" />)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aqibsaeed237&show_icons=true&locale=en&theme=react-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibsaeed237&show_icons=true&locale=en&theme=react-dark)
-</a>
+  <b>Flutter & Full-Stack Developer</b> · Cross-platform apps, end to end.
 </p>
 
+<p align="center">
+  <a href="https://aqibsaeed-237.web.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aqibsaeed237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://g.dev/aqibsaeed237"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
+  <a href="mailto:aqibsaeedmahr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 
+### 👨‍💻 About me
 
+I build **production-grade mobile applications with Flutter**, and the backends that power them.
 
+My work sits across the full stack: Flutter and Dart on the client, applying **Clean Architecture** and **BLoC** so codebases stay testable as they grow — and **NestJS / TypeScript** and **Python** on the server, covering multi-tenant data models, JWT auth, role-based access, payments and push notifications.
 
-<!-- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br> -->
-<hr>
-</div>
-<p>
-  
+- 🔭 Currently building **multi-tenant SaaS products** — Flutter frontends backed by NestJS APIs
+- 🌱 Going deeper on **system design, scalable backend architecture and clean code**
+- 💬 Ask me about **Flutter, Dart, BLoC, Firebase, NestJS and REST API design**
+- 📫 Reach me at **aqibsaeedmahr@gmail.com**
 
+---
 
+### 🚀 Featured projects
 
+| Project | Description | Stack |
+|---|---|---|
+| **[Pharmacy POS — App](https://github.com/aqibsaeed237/saas_pharmacy)** | Multi-tenant SaaS point-of-sale app. Inventory, sales, purchases, reports, subscription billing, offline-safe UI, dark theme and localization — built on Clean Architecture. | `Flutter` `Dart` `BLoC` |
+| **[Pharmacy POS — Backend](https://github.com/aqibsaeed237/pharmacy_pos_backend)** | The API behind it: multi-tenant isolation, JWT auth with refresh tokens, RBAC, multi-store switching, Stripe & PayFast payments, FCM notifications, Swagger docs, rate limiting. | `NestJS` `TypeScript` `MySQL` |
+| **[Flutter Widgets](https://github.com/aqibsaeed237/Flutter-Widgets)** | A working reference collection of Flutter widgets and UI patterns. | `Flutter` `Dart` |
+| **[Logistics Shipping Rates](https://github.com/aqibsaeed237/LogisticsShippingRates)** | Shipping rate calculation service, built collaboratively with a documented contribution workflow. | `Python` |
+| **[COVID-19 Tracker](https://github.com/aqibsaeed237/covid_19_tracker_app)** | Live global case tracking with country breakdowns, consuming a public REST API. | `Flutter` `REST` |
+| **[SplitBills](https://github.com/aqibsaeed237/splitbills)** | Shared-expense splitter for groups and trips. | `Flutter` `Dart` |
+
+---
+
+### 🛠️ Tech stack
+
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-0A9EDC?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Data & Services**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📈 Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqibsaeed237&theme=github_dark" alt="Profile details" width="92%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqibsaeed237&theme=github_dark" alt="Top languages by repo" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqibsaeed237&theme=github_dark" alt="Most commit language" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aqibsaeed237&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" width="70%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaborating on Flutter and full-stack projects — feel free to reach out.</i>
+</p>
